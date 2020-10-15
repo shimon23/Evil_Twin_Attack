@@ -1,0 +1,2 @@
+trackerjacker
+trackerjacker/plugins

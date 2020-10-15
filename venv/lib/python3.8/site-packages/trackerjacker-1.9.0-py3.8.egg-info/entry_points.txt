@@ -1,0 +1,3 @@
+[console_scripts]
+trackerjacker = trackerjacker.__main__:main
+
